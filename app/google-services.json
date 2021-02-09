@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623638074742",
+    "project_id": "call-showroom",
+    "storage_bucket": "call-showroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623638074742:android:7a5c0e2d1d9530da64d657",
+        "android_client_info": {
+          "package_name": "com.smartwebarts.callshowroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623638074742-movdnnoch18a9hst9iq4k4bgqm0pdg2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartwebarts.callshowroom",
+            "certificate_hash": "2fb35d79bbd13fec1a3ed33ffb13c09db9604440"
+          }
+        },
+        {
+          "client_id": "623638074742-rthnqk5guo3mk4ttm69g54466hufmlra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Kkf0S2aJz8qrcIxLtiQje1xmGGrvNEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623638074742-rthnqk5guo3mk4ttm69g54466hufmlra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
